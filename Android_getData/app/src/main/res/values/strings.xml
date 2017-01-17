@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example get Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="def_url">http://www.android.com/</string>
+    <string name="URL_hint">URL to get data from</string>
+    <string name="get_dataBut_text">Get Data</string>
+</resources>
